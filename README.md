@@ -21,3 +21,6 @@ A simple calculator application built using React.js. This project demonstrates 
 
    ```bash
    git clone https://github.com/yourusername/react-calculator.git
+
+2. See the app here: 
+   https://calculator-blond-one-13.vercel.app
